@@ -19,4 +19,4 @@
 2. Run the index.php file in your browser. This will automatically direct you to the Register Form to start the process.
 
 ---
-(https://codepen.io/hicoders/pen/eYdwVmb) [FrontEnd Templete]
+[FrontEnd Templete](https://codepen.io/hicoders/pen/eYdwVmb) 
